@@ -1,3 +1,15 @@
+# Testing
+
+Install Gurobi using the following:
+
+$ conda install -c gurobi gurobi
+
+$ git clone https://github.com/manmeet3591/IP4AncADMG
+
+$ cd src 
+
+$ python LearnLatent.py
+
 # IP4AncADMG
 Code for the paper "Integer Programming for Causal Structure Learning in the Presence of Latent Variables" (https://proceedings.mlr.press/v139/chen21c.html)
 
