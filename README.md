@@ -4,6 +4,10 @@ Install Gurobi using the following:
 
 $ conda install -c gurobi gurobi
 
+Go to the gurobi website and get an academic license followed by
+
+$ grbgetkey 0f35dfb6-e001-11ec-98d2-0242ac130003
+
 $ git clone https://github.com/manmeet3591/IP4AncADMG
 
 $ cd src 
